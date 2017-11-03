@@ -11,7 +11,7 @@
     <packaging>maven-plugin</packaging>
     <name>maven-t7-plugin</name>
     <description>Tomcat 7 Maven Plugin</description>
-    <url>https://github.com/t7mp</url>
+    <url>https://github.com/apatrushev-ping/maven-t7-plugin</url>
 
     <licenses>
         <license>
@@ -22,9 +22,9 @@
     </licenses>
 
     <scm>
-        <url>https://github.com/t7mp/maven-t7-plugin</url>
-        <connection>scm:git:https://github.com/t7mp/maven-t7-plugin.git</connection>
-        <developerConnection>scm:git:https://github.com/t7mp/maven-t7-plugin.git</developerConnection>
+        <url>https://github.com/apatrushev-ping/maven-t7-plugin</url>
+        <connection>scm:git:https://github.com/apatrushev-ping/maven-t7-plugin.git</connection>
+        <developerConnection>scm:git:https://github.com/apatrushev-ping/maven-t7-plugin.git</developerConnection>
       <tag>HEAD</tag>
   </scm>
 
